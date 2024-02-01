@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "TPNS(FuntoySDK)",
+    name: "TPNS(Funtoy)",
     products: [
         .library(
             name: "TPNS",

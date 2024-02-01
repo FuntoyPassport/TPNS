@@ -55,7 +55,7 @@ public protocol TPNSDelegate: AnyObject {
 
 public class TPNS: NSObject, XGPushDelegate {
     /// 业务介绍
-    public private(set) var des = "TPNS(FuntoySDK)是聚合三方腾讯云旗下的TPNS业务功能的一个SDK。"
+    public private(set) var des = "TPNS(Funtoy)是聚合三方腾讯云旗下的TPNS业务功能的一个SDK。"
     public private(set) var version = "3.2.5"
     static let pushConfigSaveKey = "FTPushSDKConfig"
     /// 单例管理
