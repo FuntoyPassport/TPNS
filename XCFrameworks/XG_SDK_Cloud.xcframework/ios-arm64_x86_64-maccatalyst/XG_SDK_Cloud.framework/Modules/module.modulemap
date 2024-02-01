@@ -1,0 +1,6 @@
+framework module XG_SDK_Cloud {
+  umbrella header "XG_SDK_Cloud.h"
+
+  export *
+  module * { export * }
+}

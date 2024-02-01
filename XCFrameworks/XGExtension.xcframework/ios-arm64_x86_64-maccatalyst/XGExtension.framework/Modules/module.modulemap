@@ -1,0 +1,6 @@
+framework module XGExtension {
+  umbrella header "XGExtension.h"
+
+  export *
+  module * { export * }
+}
